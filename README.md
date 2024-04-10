@@ -1,4 +1,4 @@
-- dataset: https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection .
+- dataset: https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection 
 - 28,000 headlines from either fake news or actual news.
 - Program classifies using Naive Bayes and Logistic Regression, count vectors and TF-IDF, varying hidden layers and max iters.
 - Best classification accuracy is 85.4%
